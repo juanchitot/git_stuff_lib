@@ -1,0 +1,12 @@
+{
+    "name": "juancho/tax_common",
+    "description": "Tax Common Bundle",
+    "type": "library",
+    "authors": [
+        {
+            "name": "juanchitot",
+            "email": "juanchitot@gmail.com"
+        }
+    ],
+    "require": {}
+}
