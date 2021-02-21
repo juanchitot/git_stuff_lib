@@ -8,5 +8,7 @@
             "email": "juanchitot@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "juancho/tax_common_inner":"dev-feature/feature01"
+    }
 }
